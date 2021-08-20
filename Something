@@ -1,1 +1,7 @@
 <h2>hello world <h2/>
+<script>
+let x= 5
+let y= 20
+let z= x+y
+document.getElementById("demo") innerHTML. z
+<script/>
